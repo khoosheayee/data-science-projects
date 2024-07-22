@@ -7,14 +7,14 @@ Welcome to my Data Science Projects Portfolio! This repository is a collection o
 - [Project #2. Crime Analysis](#crime-analysis)
 
 ## Project #1. Divorce Prediction
-**Objective**: Divorce is a complex issue influenced by many factors. The challenge is to predict divorce accurately and to identify the most significant predictors.
-**Techniques**: Exploratory Data Analysis (EDA), Logistic regression, Support vector classification, K-nearest neighbors, Gaussian naive bayes classifier, decision trees, Random forest, Ensemble techniques (Bagging, Boosting, Stacking).
-**Skills Demonstrated**: Supervised machine learning, model performance assessment.
+1. **Objective**: Divorce is a complex issue influenced by many factors. The challenge is to predict divorce accurately and to identify the most significant predictors.
+2. **Techniques**: Exploratory Data Analysis (EDA), Logistic regression, Support vector classification, K-nearest neighbors, Gaussian naive bayes classifier, decision trees, Random forest, Ensemble techniques (Bagging, Boosting, Stacking).
+3. **Skills Demonstrated**: Supervised machine learning, model performance assessment.
 
 ## Project #2. Crime Analysis
-**Objective**: This project seeks to address the challenge of optimizing law enforcement resource allocation and improving public awareness of crime trends.
-**Techniques**: Exploratory Data Analysis (EDA), Natural language processing (NLP), K-means clustering, DBSCAN, Hierarchical clustering.
-**Skills Demonstrated**: Unsupervised machine learning, data visualization, pattern recognition, and geospatial analysis.
+1. **Objective**: This project seeks to address the challenge of optimizing law enforcement resource allocation and improving public awareness of crime trends.
+2. **Techniques**: Exploratory Data Analysis (EDA), Natural language processing (NLP), K-means clustering, DBSCAN, Hierarchical clustering.
+3. **Skills Demonstrated**: Unsupervised machine learning, data visualization, pattern recognition, and geospatial analysis.
 
 ## How to Use
 1. **Explore the Projects**: Browse through the project folders to see detailed descriptions of each project.
