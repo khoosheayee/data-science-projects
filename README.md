@@ -6,12 +6,12 @@ Welcome to my Data Science Projects Portfolio! This repository is a collection o
 - [Divorce Prediction](#divorce-prediction)
 - [Crime Analysis](#crime-analysis)
 
-## Divorce Prediction
+## Project #1. Divorce Prediction
 **Objective**: Divorce is a complex issue influenced by many factors. The challenge is to predict divorce accurately and to identify the most significant predictors.
 **Techniques**: Exploratory Data Analysis (EDA), Logistic regression, Support vector classification, K-nearest neighbors, Gaussian naive bayes classifier, decision trees, Random forest, Ensemble techniques (Bagging, Boosting, Stacking).
 **Skills Demonstrated**: Supervised machine learning, model performance assessment.
 
-## Crime Analysis
+## Project #2. Crime Analysis
 **Objective**: This project seeks to address the challenge of optimizing law enforcement resource allocation and improving public awareness of crime trends.
 **Techniques**: Exploratory Data Analysis (EDA), Natural language processing (NLP), K-means clustering, DBSCAN, Hierarchical clustering.
 **Skills Demonstrated**: Unsupervised machine learning, data visualization, pattern recognition, and geospatial analysis.
