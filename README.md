@@ -3,8 +3,8 @@
 Welcome to my Data Science Projects Portfolio! This repository is a collection of my data science and machine learning projects, showcasing my skills in data analysis, machine learning, and data visualization.
 
 ## Table of Contents
-- [Divorce Prediction](#divorce-prediction)
-- [Crime Analysis](#crime-analysis)
+- [Project #1. Divorce Prediction](#divorce-prediction)
+- [Project #2. Crime Analysis](#crime-analysis)
 
 ## Project #1. Divorce Prediction
 **Objective**: Divorce is a complex issue influenced by many factors. The challenge is to predict divorce accurately and to identify the most significant predictors.
