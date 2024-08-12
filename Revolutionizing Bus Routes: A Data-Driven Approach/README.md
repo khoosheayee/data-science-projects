@@ -7,6 +7,10 @@ In bustling urban environments, optimizing travel efficiency while maintaining p
 - `Revolutionizing Bus Routes. A Data-Driven Approach.ipynb`: Jupyter notebook containing the data analysis and modeling code.
 - `DS project _Revolutionizing Bus Routes-A Data Driven Approach _Shea Yee.pdf`: Project report summarizing the findings and methodologies.
 
+## Project Value Proposition
+1. **Public Bus Commuters**: The model offers optimized bus routes tailored to different scenarios, enhancing travel safety and efficiency.
+2. **Government and Bus Operators**: Collaborating with government agencies and bus operators to integrate the model into existing systems can significantly improve scheduling and routing. This partnership aims to create a more efficient and effective public transit system.
+
 ## Methodology
 The proposed solution employs a dual approach to optimize bus routes effectively. First, unsupervised machine learning techniques are applied to identify and cluster COVID-19 high-risk areas. Second, a supervised machine learning model forecasts passenger volume at specific locations and times. These combined models generate alternative bus routes that reduce exposure to high-risk zones and high passenger volume areas while minimizing travel distance.
 
@@ -37,9 +41,6 @@ The proposed solution employs a dual approach to optimize bus routes effectively
      - Minimize distance while reducing exposure to COVID-19 high-risk areas.
      - Minimize distance while avoiding both COVID-19 high-risk areas and high passenger volume zones.
 
+
 ## Insights
 This project has developed a model that enhances the public bus system by suggesting safer and more flexible routes for commuters. By leveraging unsupervised learning to identify hazardous clusters and supervised learning to predict passenger volumes, the model provides a comprehensive approach to optimizing bus routes.
-
-## Value Proposition
-1. **Public Bus Commuters**: The model offers optimized bus routes tailored to different scenarios, enhancing travel safety and efficiency.
-2. **Government and Bus Operators**: Collaborating with government agencies and bus operators to integrate the model into existing systems can significantly improve scheduling and routing. This partnership aims to create a more efficient and effective public transit system.
